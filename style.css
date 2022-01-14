@@ -1,0 +1,67 @@
+body {
+    font-family: sans-serif;
+}
+img{
+    text-align: center;
+}
+a{
+    text-align: center;
+    margin: 60px;
+}
+nav{
+    text-align: center;
+}
+nav a{
+    font-size: x-large;
+    border-bottom: 3px solid black;
+}
+h1{
+ text-align: center;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 64px;
+line-height: 75px;
+}
+main p{
+    Font-family: Roboto;
+font-style: Regular;
+font-size: 24px;
+line-height: 28px;
+line-height: 100%;
+text-align: Left;
+vertical-align: Top;
+border: 3px solid #000000;
+border-radius: 30px;
+padding: 10px;
+}
+
+
+
+
+footer{
+ Font-family: Roboto;
+font-style: Regular;
+Font-size: 24px;
+Line-height: 28px;
+Line-height: 100%;
+Align: Left;
+Vertical-align: Top;
+
+}
+footer p{
+    border-collapse: collapse;
+border:9px solid black;
+padding: 0px;
+margin: 0px;
+}
+p img{
+    text-align: center;
+    margin: 40px;
+    border-left: 9px black dotted ;
+    padding: 2px;
+}
+p a{
+    margin: 0px;
+    color: blue;
+}
